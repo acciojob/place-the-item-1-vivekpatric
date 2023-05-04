@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	display:flex;
 	column-gap:4px;
 	flex-wrap:wrap;
